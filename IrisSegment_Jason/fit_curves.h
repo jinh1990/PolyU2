@@ -11,4 +11,4 @@ int fitPolynomial(vector<Point2f> pts, int nd, Mat &dst, Mat &pic = Mat());
 int drawPolynomial(Mat coef, int type, Mat &pic);
 int drawOverlapped(Mat coef1, Mat coef2, Mat &pic);
 
-#endif
+#endif   
